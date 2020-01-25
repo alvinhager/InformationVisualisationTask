@@ -1,0 +1,25 @@
+
+
+
+
+table {
+  color: #1e1f26;
+ border-collapse:collapse ;
+
+  tbody{
+    display:block;
+    overflow-y:scroll;
+    height:400px;
+   overflow-x:hidden;
+    
+    tr:nth-child(even) {
+      background-color:#CCC;
+    }
+
+    tr:nth-child(odd) {
+      background-color:rgb(238, 238, 238);
+    }
+  }
+  
+}
+

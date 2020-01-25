@@ -1,0 +1,16 @@
+.GroupBar{
+    width:100%;
+    height:100%;
+    display:flex;
+
+    .label{
+        font-weight:bold;
+        margin-left:5px;
+    }
+
+    .distributionLabel{
+        margin-left:15px;
+        font-size:10px;
+    }
+
+}

@@ -1,0 +1,14 @@
+
+.container{
+    display:flex;
+    width:250px;
+
+    .circle{
+        margin-left:10px;
+        border-radius:50%;
+    }
+
+    .circle:last-child{
+        margin-right:10px;
+    }
+}

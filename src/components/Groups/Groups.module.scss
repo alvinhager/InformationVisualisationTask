@@ -1,0 +1,36 @@
+
+
+.groups{
+
+    padding-left:80px;
+
+
+
+
+    .groupVis{
+
+        padding-left:40px;
+
+        display:flex;
+        align-items:center;
+        position:relative;
+        padding-bottom:5px;
+
+        .label{
+            font-weight:bold;
+            position:absolute; 
+            color:#283655;
+            bottom:-3px;
+            left:-55px;
+            vertical-align: bottom;
+            margin-bottom:10px;
+        }
+
+        .groupBar{
+            width:100%;
+        }
+    
+    }
+
+}
+
