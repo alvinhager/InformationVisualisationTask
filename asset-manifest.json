@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlvinProject1/static/css/main.2bc1c1f5.chunk.css",
+    "main.js": "/AlvinProject1/static/js/main.bb27bb00.chunk.js",
+    "main.js.map": "/AlvinProject1/static/js/main.bb27bb00.chunk.js.map",
+    "runtime-main.js": "/AlvinProject1/static/js/runtime-main.64482272.js",
+    "runtime-main.js.map": "/AlvinProject1/static/js/runtime-main.64482272.js.map",
+    "static/js/2.f8813e03.chunk.js": "/AlvinProject1/static/js/2.f8813e03.chunk.js",
+    "static/js/2.f8813e03.chunk.js.map": "/AlvinProject1/static/js/2.f8813e03.chunk.js.map",
+    "index.html": "/AlvinProject1/index.html",
+    "precache-manifest.653afd288cdb77a27af59b5ae09b4676.js": "/AlvinProject1/precache-manifest.653afd288cdb77a27af59b5ae09b4676.js",
+    "service-worker.js": "/AlvinProject1/service-worker.js",
+    "static/css/main.2bc1c1f5.chunk.css.map": "/AlvinProject1/static/css/main.2bc1c1f5.chunk.css.map",
+    "static/js/2.f8813e03.chunk.js.LICENSE": "/AlvinProject1/static/js/2.f8813e03.chunk.js.LICENSE",
+    "static/media/index.css": "/AlvinProject1/static/media/Ikaros-Regular.098c7890.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64482272.js",
+    "static/js/2.f8813e03.chunk.js",
+    "static/css/main.2bc1c1f5.chunk.css",
+    "static/js/main.bb27bb00.chunk.js"
+  ]
+}
