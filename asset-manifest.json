@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AlvinProject1/static/css/main.2bc1c1f5.chunk.css",
+    "main.css": "/AlvinProject1/static/css/main.fca1cc5e.chunk.css",
     "main.js": "/AlvinProject1/static/js/main.c3fae91c.chunk.js",
     "main.js.map": "/AlvinProject1/static/js/main.c3fae91c.chunk.js.map",
     "runtime-main.js": "/AlvinProject1/static/js/runtime-main.64482272.js",
@@ -8,16 +8,16 @@
     "static/js/2.f8813e03.chunk.js": "/AlvinProject1/static/js/2.f8813e03.chunk.js",
     "static/js/2.f8813e03.chunk.js.map": "/AlvinProject1/static/js/2.f8813e03.chunk.js.map",
     "index.html": "/AlvinProject1/index.html",
-    "precache-manifest.aa42b0b628f079b0d6331ce47261f30c.js": "/AlvinProject1/precache-manifest.aa42b0b628f079b0d6331ce47261f30c.js",
+    "precache-manifest.a4b7e7d4ac410e6c51bb9b39b064bb2d.js": "/AlvinProject1/precache-manifest.a4b7e7d4ac410e6c51bb9b39b064bb2d.js",
     "service-worker.js": "/AlvinProject1/service-worker.js",
-    "static/css/main.2bc1c1f5.chunk.css.map": "/AlvinProject1/static/css/main.2bc1c1f5.chunk.css.map",
+    "static/css/main.fca1cc5e.chunk.css.map": "/AlvinProject1/static/css/main.fca1cc5e.chunk.css.map",
     "static/js/2.f8813e03.chunk.js.LICENSE": "/AlvinProject1/static/js/2.f8813e03.chunk.js.LICENSE",
     "static/media/index.css": "/AlvinProject1/static/media/Ikaros-Regular.098c7890.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.64482272.js",
     "static/js/2.f8813e03.chunk.js",
-    "static/css/main.2bc1c1f5.chunk.css",
+    "static/css/main.fca1cc5e.chunk.css",
     "static/js/main.c3fae91c.chunk.js"
   ]
 }

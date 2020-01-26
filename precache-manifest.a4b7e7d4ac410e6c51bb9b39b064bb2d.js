@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a504d0d7016b5dff2c40d31e010c6d7",
+    "revision": "033c7b412c42c0a1061d0a1e936a3f04",
     "url": "/AlvinProject1/index.html"
   },
   {
-    "revision": "789ecbbc5dfba64633f9",
-    "url": "/AlvinProject1/static/css/main.2bc1c1f5.chunk.css"
+    "revision": "5b352b83e2aa81bdd84a",
+    "url": "/AlvinProject1/static/css/main.fca1cc5e.chunk.css"
   },
   {
     "revision": "27a72aedd70dd327b250",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AlvinProject1/static/js/2.f8813e03.chunk.js.LICENSE"
   },
   {
-    "revision": "789ecbbc5dfba64633f9",
+    "revision": "5b352b83e2aa81bdd84a",
     "url": "/AlvinProject1/static/js/main.c3fae91c.chunk.js"
   },
   {
