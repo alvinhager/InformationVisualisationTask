@@ -23,6 +23,8 @@ const SkillBar: React.FunctionComponent<SkillBar> = ({
 
     //divStyle = { height: '100%', width: '100%', backgroundColor: 'black' };
 
+    //hello
+
     useEffect(
         () => {
             if (d3Container.current) {
